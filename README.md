@@ -10,6 +10,7 @@ Ce projet consiste en un programme Python qui utilise Tkinter pour créer une in
 ## Pourquoi ? 
 
 - difficultées sur de grandes listes de nombres de tournois à trier tout d'un coup afin de mettre en avant les vainqueurs
+- inspirations : https://docs.python.org/fr/3/howto/sorting.html
 
 ## Fonctionnalités
 
